@@ -148,14 +148,6 @@ url = "/contact"
 identifier = "skills"
 name = "技能"
 url = "/skills"
-
-[module]
-# In case you would like to make changes to the theme and keep it locally in you repository,
-# uncomment the line below (and correct the local path if necessary).
-# --
-replacements = "github.com/panr/hugo-theme-terminal -> terminal"
-[[module.imports]]
-path = 'github.com/panr/hugo-theme-terminal'
 [services]
 [services.disqus]
 shortname = "damn996"

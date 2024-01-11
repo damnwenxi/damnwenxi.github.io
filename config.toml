@@ -59,8 +59,8 @@ readingTime = true # default
 # set Twitter handles for Twitter cards
 # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
 # do not include @
-creator = "dawenxi"
-site = ""
+creator = "Damnwenxi"
+site = "damnwenxi.com"
 
 [languages]
 [languages.en]
@@ -89,22 +89,27 @@ logoHomeLink = "/"
 identifier = "about"
 name = "About"
 url = "/about"
+weight = 4
 [[languages.en.menu.main]]
 identifier = "lifestyle"
 name = "Lifestyle"
-url = "/lifestyle"
+url = "/posts/lifestyle"
+weight = 1
 [[languages.en.menu.main]]
 identifier = "coding"
 name = "Coding"
-url = "/coding"
+url = "/posts/coding"
+weight = 2
 [[languages.en.menu.main]]
 identifier = "contactme"
 name = "Contact Me"
 url = "/contact"
+weight = 5
 [[languages.en.menu.main]]
 identifier = "skills"
 name = "Skills"
 url = "/skills"
+weight = 3
 
 [languages.zh]
 languageName = "简体中文"

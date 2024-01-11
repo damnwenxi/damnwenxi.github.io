@@ -13,9 +13,17 @@ In my spare time, I enjoy outdoor activities such as short trips, camping (my fa
 
 ---
 
+# Skills
+
+---
+
+# Experience
+
+---
+
 # Education
 
-### [Hubei University](https://www.hubu.edu.cn/)
+## [Hubei University](https://www.hubu.edu.cn/)
 
 Computer Science and Technology · 2016.09 - 2020.07
 

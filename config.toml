@@ -106,9 +106,9 @@ name = "Contact Me"
 url = "/contact"
 weight = 5
 [[languages.en.menu.main]]
-identifier = "skills"
-name = "Skills"
-url = "/skills"
+identifier = "geek"
+name = "Geek"
+url = "/posts/geek"
 weight = 3
 
 [languages.zh]
@@ -137,22 +137,27 @@ logoHomeLink = "/"
 identifier = "about"
 name = "关于我"
 url = "/about"
+weight = 4
 [[languages.zh.menu.main]]
 identifier = "lifestyle"
 name = "生活方式"
-url = "/lifestyle"
+url = "/posts/lifestyle"
+weight = 1
 [[languages.zh.menu.main]]
 identifier = "coding"
 name = "代码"
-url = "/coding"
+url = "/posts/coding"
+weight = 2
 [[languages.zh.menu.main]]
 identifier = "contactme"
 name = "联系我"
 url = "/contact"
+weight = 5
 [[languages.zh.menu.main]]
-identifier = "skills"
-name = "技能"
-url = "/skills"
+identifier = "geek"
+name = "瞎折腾"
+url = "/posts/geek"
+weight = 3
 [services]
 [services.disqus]
 shortname = "damn996"

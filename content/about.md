@@ -3,7 +3,7 @@ title = 'About me'
 readingTime = false
 +++
 
-{{< figure  src="/about/me.jpg" alt="That's me!" style="height: 240px;" caption="That's Me! ↑" captionPosition="left" >}}
+{{< figure  src="/me.jpg" alt="That's me!" style="height: 240px;" caption="That's Me! ↑" captionPosition="left" >}}
 
 # Hi there!
 

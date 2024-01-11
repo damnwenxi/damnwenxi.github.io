@@ -65,7 +65,7 @@ site = "damnwenxi.com"
 [languages]
 [languages.en]
 languageName = "English"
-title = "Dawenxi's Personal Site"
+title = "Damnwenxi's Personal Site"
 subtitle = "A simple, retro theme for Hugo"
 owner = ""
 keywords = ""
@@ -81,7 +81,7 @@ minuteReadingTime = "min read"
 words = "words"
 
 [languages.en.params.logo]
-logoText = "Dawenxi's Personal Site"
+logoText = "Damnwenxi's Personal Site"
 logoHomeLink = "/"
 
 [languages.en.menu]
@@ -111,53 +111,53 @@ name = "Geek"
 url = "/posts/geek"
 weight = 3
 
-[languages.zh]
-languageName = "简体中文"
-title = "达文西的个人博客"
-subtitle = "Damn死龙城free将在，不教human度m3"
-owner = ""
-keywords = ""
-copyright = ""
-menuMore = "展开"
-readMore = "更多"
-readOtherPosts = "阅读其他文章"
-newerPosts = "Newer posts"
-olderPosts = "Older posts"
-missingContentMessage = "Page not found..."
-missingBackButtonLabel = "返回首页"
-minuteReadingTime = "min read"
-words = "words"
+# [languages.zh]
+# languageName = "简体中文"
+# title = "达文西的个人博客"
+# subtitle = "Damn死龙城free将在，不教human度m3"
+# owner = ""
+# keywords = ""
+# copyright = ""
+# menuMore = "展开"
+# readMore = "更多"
+# readOtherPosts = "阅读其他文章"
+# newerPosts = "Newer posts"
+# olderPosts = "Older posts"
+# missingContentMessage = "Page not found..."
+# missingBackButtonLabel = "返回首页"
+# minuteReadingTime = "min read"
+# words = "words"
 
-[languages.zh.params.logo]
-logoText = "达文西的个人网站"
-logoHomeLink = "/"
+# [languages.zh.params.logo]
+# logoText = "达文西的个人网站"
+# logoHomeLink = "/"
 
-[languages.zh.menu]
-[[languages.zh.menu.main]]
-identifier = "about"
-name = "关于我"
-url = "/about"
-weight = 4
-[[languages.zh.menu.main]]
-identifier = "lifestyle"
-name = "生活方式"
-url = "/posts/lifestyle"
-weight = 1
-[[languages.zh.menu.main]]
-identifier = "coding"
-name = "代码"
-url = "/posts/coding"
-weight = 2
-[[languages.zh.menu.main]]
-identifier = "contactme"
-name = "联系我"
-url = "/contact"
-weight = 5
-[[languages.zh.menu.main]]
-identifier = "geek"
-name = "瞎折腾"
-url = "/posts/geek"
-weight = 3
+# [languages.zh.menu]
+# [[languages.zh.menu.main]]
+# identifier = "about"
+# name = "关于我"
+# url = "/about"
+# weight = 4
+# [[languages.zh.menu.main]]
+# identifier = "lifestyle"
+# name = "生活方式"
+# url = "/posts/lifestyle"
+# weight = 1
+# [[languages.zh.menu.main]]
+# identifier = "coding"
+# name = "代码"
+# url = "/posts/coding"
+# weight = 2
+# [[languages.zh.menu.main]]
+# identifier = "contactme"
+# name = "联系我"
+# url = "/contact"
+# weight = 5
+# [[languages.zh.menu.main]]
+# identifier = "geek"
+# name = "瞎折腾"
+# url = "/posts/geek"
+# weight = 3
 [services]
 [services.disqus]
 shortname = "damn996"

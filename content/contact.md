@@ -1,9 +1,10 @@
 +++
 title = "Contact Me"
 readingTime = false
+cover = "/reach-me.png"
 +++
 
-feel free to contact me with these ways below:
+feel free to reach me by these ways below:
 
 -   Email: <kefeng1026@gmail.com>
 -   WeChat: damnwenxi

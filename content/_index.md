@@ -3,6 +3,6 @@ layout = "index"
 framed = true
 +++
 
-# Welcome!
+# Ohooo, Damn wenxi!
 
 Here is Damnwenxi's personal website.

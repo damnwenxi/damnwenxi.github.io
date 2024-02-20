@@ -5,4 +5,4 @@ framed = true
 
 # Lifestyle
 
-Enjoy your life.
+Hiking, Camping, Fishing, Walking...

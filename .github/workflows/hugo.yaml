@@ -73,3 +73,13 @@ jobs:
             - name: Deploy to GitHub Pages
               id: deployment
               uses: actions/deploy-pages@v3
+
+            - name: Deploy to my personal ecs
+              uses: appleboy/ssh-action@v0.1.7
+              with:
+                  host: ${{ secrets.HOST }}
+                  username: ${{ secrets.USERNAME }}
+                  key: ${{ secrets.KEY }}
+                  port: ${{ secrets.PORT }}
+                  source: ./public
+                  target: /home/damnwenxi/

@@ -1,11 +1,12 @@
 +++
 title = 'About me'
 readingTime = false
+Toc = false
 +++
 
 {{< figure  src="/me.jpg" alt="That's me!" style="height: 240px;" caption="That's Me! ↑" captionPosition="left" >}}
 
-# Hi there!
+## [Hi there!](#hi-there)
 
 My name is KeFeng and I am currently a Software Engineer at Gxxly ICC. My main job is responsible for the architecture design, infrastructure construction, and requirement implementation of the frontend business system on the cloud platform.
 
@@ -13,7 +14,7 @@ In my spare time, I enjoy outdoor activities such as short trips, camping (my fa
 
 ---
 
-# Skills
+## [Skills](#skills)
 
 -   熟练掌握 Javascript、HTML5、CSS3 等前端技术，熟悉 ES6、TypeScript 语法，前端基础知识牢固。
 -   熟练使用 Vue3，对 Vite、Pinia、Vue-Router 等 Vue 生态技术有一定理解并长期在项目中应用。
@@ -32,13 +33,13 @@ In my spare time, I enjoy outdoor activities such as short trips, camping (my fa
 
 ---
 
-# Experience
+## [Experience](#experience)
 
 ---
 
-# Education
+## [Education](#education)
 
-## [Hubei University](https://www.hubu.edu.cn/)
+### Hubei University
 
 Computer Science and Technology · 2016.09 - 2020.07
 

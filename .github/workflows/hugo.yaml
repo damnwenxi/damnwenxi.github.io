@@ -63,15 +63,15 @@ jobs:
               with:
                   path: ./public
 
-            - name: scp to my personal ecs
-              uses: appleboy/scp-action@v0.1.7
-              with:
-                  host: ${{ secrets.HOST }}
-                  username: ${{ secrets.USERNAME }}
-                  key: ${{ secrets.KEY }}
-                  port: ${{ secrets.PORT }}
-                  source: ./public/*
-                  target: /home/damnwenxi/
+            # - name: scp to my personal ecs
+            #   uses: appleboy/scp-action@v0.1.7
+            #   with:
+            #       host: ${{ secrets.HOST }}
+            #       username: ${{ secrets.USERNAME }}
+            #       key: ${{ secrets.KEY }}
+            #       port: ${{ secrets.PORT }}
+            #       source: ./public/*
+            #       target: /home/damnwenxi/
 
     # Deployment job
     deploy:

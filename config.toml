@@ -60,7 +60,6 @@ TocTitle = "目录" # default
 # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
 # do not include @
 creator = "Damnwenxi"
-site = "damnwenxi.com"
 
 [languages]
 [languages.en]
